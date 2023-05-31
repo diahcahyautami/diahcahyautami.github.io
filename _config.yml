@@ -3,5 +3,6 @@ title: This is the personal homepage of Komang Diah Cahya Utami, Hokudai exchang
 description: What you will find here are links to projects, publications, and repositories related to the former. Expect some delay in reporting!
 plugins:
   - jemoji
+  - jekyll-remote-theme
 url: "https://diahcahyautami.github.io/"
 markdown: kramdown
