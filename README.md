@@ -1,7 +1,6 @@
 # diahcahyautami.github.io
 This is Cahya's first website repository ever. Wish me luck✨
-![image](/DSC_0149%20ok.jpg) 
-<img src="<img src="" width="48" height=“48”
+![image](/DSC_0149%20ok.jpg)
 
 ## About me
 I’m currently a third year undergraduate student majoring [Management at IPB University](https://manajemen.ipb.ac.id/). Studying abroad has become one of my dreams since I was a kid, and I am beyond grateful that in my sixth semester I have the opportunity to participate in [Hokkaido University Short-Term Exchange Program (HUSTEP)](https://www.global.hokudai.ac.jp/admissions/exchange-student-admissions/exchange-programs-in-english-hustep/) in the capital city of northenmost island of Japan, Sapporo. I am highly interested and seeking opportunities in digital marketing and social media.
